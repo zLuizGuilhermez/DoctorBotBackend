@@ -1,0 +1,8 @@
+Paciente 764:
+- Idade: 63.0
+- Sexo: Desconhecido
+- Glicose: 101.0 mg/dL
+- Pressão Arterial: 76.0 mmHg
+- Insulina: 180.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

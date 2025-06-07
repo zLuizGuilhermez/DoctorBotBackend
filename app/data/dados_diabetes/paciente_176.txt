@@ -1,0 +1,8 @@
+Paciente 176:
+- Idade: 36.0
+- Sexo: Desconhecido
+- Glicose: 179.0 mg/dL
+- Pressão Arterial: 72.0 mmHg
+- Insulina: 130.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

@@ -1,0 +1,8 @@
+Paciente 423:
+- Idade: 21.0
+- Sexo: Desconhecido
+- Glicose: 102.0 mg/dL
+- Pressão Arterial: 64.0 mmHg
+- Insulina: 78.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

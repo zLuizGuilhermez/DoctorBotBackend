@@ -1,0 +1,8 @@
+Paciente 450:
+- Idade: 26.0
+- Sexo: Desconhecido
+- Glicose: 120.0 mg/dL
+- Pressão Arterial: 74.0 mmHg
+- Insulina: 63.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

@@ -1,0 +1,8 @@
+Paciente 510:
+- Idade: 64.0
+- Sexo: Desconhecido
+- Glicose: 120.0 mg/dL
+- Pressão Arterial: 78.0 mmHg
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

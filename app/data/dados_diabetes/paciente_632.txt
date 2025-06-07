@@ -1,0 +1,8 @@
+Paciente 632:
+- Idade: 24.0
+- Sexo: Desconhecido
+- Glicose: 102.0 mg/dL
+- Pressão Arterial: 78.0 mmHg
+- Insulina: 90.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

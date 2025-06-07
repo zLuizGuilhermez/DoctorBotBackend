@@ -1,0 +1,8 @@
+Paciente 21:
+- Idade: 27.0
+- Sexo: Desconhecido
+- Glicose: 126.0 mg/dL
+- Pressão Arterial: 88.0 mmHg
+- Insulina: 235.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

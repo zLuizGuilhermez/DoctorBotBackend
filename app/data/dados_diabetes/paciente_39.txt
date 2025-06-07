@@ -1,0 +1,8 @@
+Paciente 39:
+- Idade: 27.0
+- Sexo: Desconhecido
+- Glicose: 90.0 mg/dL
+- Pressão Arterial: 68.0 mmHg
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

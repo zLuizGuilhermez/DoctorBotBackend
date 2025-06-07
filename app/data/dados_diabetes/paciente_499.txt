@@ -1,0 +1,8 @@
+Paciente 499:
+- Idade: 55.0
+- Sexo: Desconhecido
+- Glicose: 195.0 mg/dL
+- Pressão Arterial: 70.0 mmHg
+- Insulina: 145.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

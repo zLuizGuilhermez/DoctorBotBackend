@@ -1,0 +1,8 @@
+Paciente 216:
+- Idade: 38.0
+- Sexo: Desconhecido
+- Glicose: 151.0 mg/dL
+- Pressão Arterial: 70.0 mmHg
+- Insulina: 271.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

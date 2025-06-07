@@ -1,0 +1,8 @@
+Paciente 239:
+- Idade: 32.0
+- Sexo: Desconhecido
+- Glicose: 164.0 mg/dL
+- Pressão Arterial: 84.0 mmHg
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

@@ -1,0 +1,8 @@
+Paciente 699:
+- Idade: 28.0
+- Sexo: Desconhecido
+- Glicose: 127.0 mg/dL
+- Pressão Arterial: 88.0 mmHg
+- Insulina: 155.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

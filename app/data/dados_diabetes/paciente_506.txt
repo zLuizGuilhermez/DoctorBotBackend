@@ -1,0 +1,8 @@
+Paciente 506:
+- Idade: 38.0
+- Sexo: Desconhecido
+- Glicose: 75.0 mg/dL
+- Pressão Arterial: 82.0 mmHg
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

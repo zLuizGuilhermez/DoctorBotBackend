@@ -1,0 +1,8 @@
+Paciente 459:
+- Idade: 51.0
+- Sexo: Desconhecido
+- Glicose: 148.0 mg/dL
+- Pressão Arterial: 84.0 mmHg
+- Insulina: 237.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

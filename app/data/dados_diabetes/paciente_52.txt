@@ -1,0 +1,8 @@
+Paciente 52:
+- Idade: 26.0
+- Sexo: Desconhecido
+- Glicose: 101.0 mg/dL
+- Pressão Arterial: 50.0 mmHg
+- Insulina: 36.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

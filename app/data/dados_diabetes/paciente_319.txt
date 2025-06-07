@@ -1,0 +1,8 @@
+Paciente 319:
+- Idade: 28.0
+- Sexo: Desconhecido
+- Glicose: 115.0 mg/dL
+- Pressão Arterial: 66.0 mmHg
+- Insulina: 140.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

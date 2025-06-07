@@ -1,0 +1,8 @@
+Paciente 371:
+- Idade: 25.0
+- Sexo: Desconhecido
+- Glicose: 173.0 mg/dL
+- Pressão Arterial: 82.0 mmHg
+- Insulina: 465.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

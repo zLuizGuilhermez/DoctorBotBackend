@@ -1,0 +1,8 @@
+Paciente 366:
+- Idade: 30.0
+- Sexo: Desconhecido
+- Glicose: 99.0 mg/dL
+- Pressão Arterial: 54.0 mmHg
+- Insulina: 83.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

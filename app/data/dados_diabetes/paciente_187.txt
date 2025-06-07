@@ -1,0 +1,8 @@
+Paciente 187:
+- Idade: 60.0
+- Sexo: Desconhecido
+- Glicose: 181.0 mg/dL
+- Pressão Arterial: 68.0 mmHg
+- Insulina: 495.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

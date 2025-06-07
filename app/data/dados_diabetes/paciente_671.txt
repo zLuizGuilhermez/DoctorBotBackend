@@ -1,0 +1,8 @@
+Paciente 671:
+- Idade: 49.0
+- Sexo: Desconhecido
+- Glicose: 165.0 mg/dL
+- Pressão Arterial: 68.0 mmHg
+- Insulina: 168.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

@@ -1,0 +1,8 @@
+Paciente 595:
+- Idade: 34.0
+- Sexo: Desconhecido
+- Glicose: 123.0 mg/dL
+- Pressão Arterial: 72.0 mmHg
+- Insulina: 230.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

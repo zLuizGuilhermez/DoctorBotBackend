@@ -1,0 +1,8 @@
+Paciente 324:
+- Idade: 43.0
+- Sexo: Desconhecido
+- Glicose: 152.0 mg/dL
+- Pressão Arterial: 90.0 mmHg
+- Insulina: 29.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

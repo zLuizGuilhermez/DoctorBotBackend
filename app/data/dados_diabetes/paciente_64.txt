@@ -1,0 +1,8 @@
+Paciente 64:
+- Idade: 24.0
+- Sexo: Desconhecido
+- Glicose: 141.0 mg/dL
+- Pressão Arterial: 58.0 mmHg
+- Insulina: 128.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

@@ -1,0 +1,8 @@
+Paciente 522:
+- Idade: 26.0
+- Sexo: Desconhecido
+- Glicose: 124.0 mg/dL
+- Pressão Arterial: 80.0 mmHg
+- Insulina: 130.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

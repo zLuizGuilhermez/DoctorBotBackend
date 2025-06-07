@@ -1,0 +1,8 @@
+Paciente 317:
+- Idade: 30.0
+- Sexo: Desconhecido
+- Glicose: 99.0 mg/dL
+- Pressão Arterial: 80.0 mmHg
+- Insulina: 64.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

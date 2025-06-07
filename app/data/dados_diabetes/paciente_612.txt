@@ -1,0 +1,8 @@
+Paciente 612:
+- Idade: 36.0
+- Sexo: Desconhecido
+- Glicose: 174.0 mg/dL
+- Pressão Arterial: 58.0 mmHg
+- Insulina: 194.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

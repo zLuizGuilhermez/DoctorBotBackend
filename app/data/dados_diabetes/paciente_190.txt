@@ -1,0 +1,8 @@
+Paciente 190:
+- Idade: 25.0
+- Sexo: Desconhecido
+- Glicose: 139.0 mg/dL
+- Pressão Arterial: 80.0 mmHg
+- Insulina: 160.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

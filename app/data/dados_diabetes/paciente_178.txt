@@ -1,0 +1,8 @@
+Paciente 178:
+- Idade: 26.0
+- Sexo: Desconhecido
+- Glicose: 129.0 mg/dL
+- Pressão Arterial: 110.0 mmHg
+- Insulina: 130.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

@@ -1,0 +1,8 @@
+Paciente 741:
+- Idade: 48.0
+- Sexo: Desconhecido
+- Glicose: 120.0 mg/dL
+- Pressão Arterial: 80.0 mmHg
+- Insulina: 150.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

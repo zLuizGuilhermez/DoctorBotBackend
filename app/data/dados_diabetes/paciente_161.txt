@@ -1,0 +1,8 @@
+Paciente 161:
+- Idade: 36.0
+- Sexo: Desconhecido
+- Glicose: 151.0 mg/dL
+- Pressão Arterial: 90.0 mmHg
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

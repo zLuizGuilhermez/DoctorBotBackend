@@ -1,0 +1,8 @@
+Paciente 416:
+- Idade: 22.0
+- Sexo: Desconhecido
+- Glicose: 173.0 mg/dL
+- Pressão Arterial: 84.0 mmHg
+- Insulina: 474.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

@@ -1,0 +1,8 @@
+Paciente 309:
+- Idade: 25.0
+- Sexo: Desconhecido
+- Glicose: 128.0 mg/dL
+- Pressão Arterial: 68.0 mmHg
+- Insulina: 180.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

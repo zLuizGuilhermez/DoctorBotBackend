@@ -1,0 +1,8 @@
+Paciente 621:
+- Idade: 28.0
+- Sexo: Desconhecido
+- Glicose: 112.0 mg/dL
+- Pressão Arterial: 86.0 mmHg
+- Insulina: 160.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

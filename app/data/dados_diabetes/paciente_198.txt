@@ -1,0 +1,8 @@
+Paciente 198:
+- Idade: 23.0
+- Sexo: Desconhecido
+- Glicose: 107.0 mg/dL
+- Pressão Arterial: 62.0 mmHg
+- Insulina: 48.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

@@ -1,0 +1,8 @@
+Paciente 347:
+- Idade: 22.0
+- Sexo: Desconhecido
+- Glicose: 139.0 mg/dL
+- Pressão Arterial: 46.0 mmHg
+- Insulina: 83.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

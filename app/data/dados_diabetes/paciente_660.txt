@@ -1,0 +1,8 @@
+Paciente 660:
+- Idade: 27.0
+- Sexo: Desconhecido
+- Glicose: 80.0 mg/dL
+- Pressão Arterial: 82.0 mmHg
+- Insulina: 70.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

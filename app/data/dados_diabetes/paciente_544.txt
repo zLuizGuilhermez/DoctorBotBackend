@@ -1,0 +1,8 @@
+Paciente 544:
+- Idade: 25.0
+- Sexo: Desconhecido
+- Glicose: 84.0 mg/dL
+- Pressão Arterial: 90.0 mmHg
+- Insulina: 56.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

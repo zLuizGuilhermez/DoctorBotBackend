@@ -1,0 +1,8 @@
+Paciente 639:
+- Idade: 32.0
+- Sexo: Desconhecido
+- Glicose: 97.0 mg/dL
+- Pressão Arterial: 76.0 mmHg
+- Insulina: 91.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

@@ -1,0 +1,8 @@
+Paciente 575:
+- Idade: 23.0
+- Sexo: Desconhecido
+- Glicose: 143.0 mg/dL
+- Pressão Arterial: 86.0 mmHg
+- Insulina: 330.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

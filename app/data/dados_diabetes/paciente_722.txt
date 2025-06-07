@@ -1,0 +1,8 @@
+Paciente 722:
+- Idade: 21.0
+- Sexo: Desconhecido
+- Glicose: 114.0 mg/dL
+- Pressão Arterial: 66.0 mmHg
+- Insulina: 200.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

@@ -1,0 +1,8 @@
+Paciente 766:
+- Idade: 30.0
+- Sexo: Desconhecido
+- Glicose: 121.0 mg/dL
+- Pressão Arterial: 72.0 mmHg
+- Insulina: 112.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

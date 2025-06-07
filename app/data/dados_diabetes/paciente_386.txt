@@ -1,0 +1,8 @@
+Paciente 386:
+- Idade: 24.0
+- Sexo: Desconhecido
+- Glicose: 119.0 mg/dL
+- Pressão Arterial: 54.0 mmHg
+- Insulina: 50.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

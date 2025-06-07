@@ -1,0 +1,8 @@
+Paciente 9:
+- Idade: 53.0
+- Sexo: Desconhecido
+- Glicose: 197.0 mg/dL
+- Pressão Arterial: 70.0 mmHg
+- Insulina: 543.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

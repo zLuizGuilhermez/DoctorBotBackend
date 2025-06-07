@@ -1,0 +1,8 @@
+Paciente 485:
+- Idade: 31.0
+- Sexo: Desconhecido
+- Glicose: 145.0 mg/dL
+- Pressão Arterial: 0.0 mmHg
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

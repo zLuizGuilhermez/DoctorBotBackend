@@ -1,0 +1,8 @@
+Paciente 380:
+- Idade: 35.0
+- Sexo: Desconhecido
+- Glicose: 93.0 mg/dL
+- Pressão Arterial: 100.0 mmHg
+- Insulina: 72.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

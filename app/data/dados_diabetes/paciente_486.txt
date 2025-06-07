@@ -1,0 +1,8 @@
+Paciente 486:
+- Idade: 24.0
+- Sexo: Desconhecido
+- Glicose: 135.0 mg/dL
+- Pressão Arterial: 68.0 mmHg
+- Insulina: 250.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

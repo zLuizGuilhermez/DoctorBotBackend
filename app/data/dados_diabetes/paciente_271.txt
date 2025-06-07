@@ -1,0 +1,8 @@
+Paciente 271:
+- Idade: 38.0
+- Sexo: Desconhecido
+- Glicose: 101.0 mg/dL
+- Pressão Arterial: 86.0 mmHg
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

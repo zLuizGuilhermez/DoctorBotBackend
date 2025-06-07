@@ -1,0 +1,8 @@
+Paciente 44:
+- Idade: 54.0
+- Sexo: Desconhecido
+- Glicose: 171.0 mg/dL
+- Pressão Arterial: 110.0 mmHg
+- Insulina: 240.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

@@ -1,0 +1,8 @@
+Paciente 652:
+- Idade: 27.0
+- Sexo: Desconhecido
+- Glicose: 117.0 mg/dL
+- Pressão Arterial: 60.0 mmHg
+- Insulina: 106.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

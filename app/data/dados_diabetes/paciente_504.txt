@@ -1,0 +1,8 @@
+Paciente 504:
+- Idade: 41.0
+- Sexo: Desconhecido
+- Glicose: 94.0 mg/dL
+- Pressão Arterial: 64.0 mmHg
+- Insulina: 79.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

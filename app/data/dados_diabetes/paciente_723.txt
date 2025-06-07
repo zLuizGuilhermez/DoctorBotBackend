@@ -1,0 +1,8 @@
+Paciente 723:
+- Idade: 42.0
+- Sexo: Desconhecido
+- Glicose: 149.0 mg/dL
+- Pressão Arterial: 68.0 mmHg
+- Insulina: 127.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes
