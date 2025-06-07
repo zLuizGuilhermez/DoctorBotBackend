@@ -1,0 +1,9 @@
+Paciente 377:
+- Idade: 22.0
+- Sexo: Desconhecido
+- Glicose: 98.0 mg/dL
+- Pressão Arterial: 82.0 mmHg
+- IMC: 25.2 
+- Insulina: 84.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

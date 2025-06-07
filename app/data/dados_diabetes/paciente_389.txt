@@ -1,8 +1,0 @@
-Paciente 389:
-- Idade: 58.0
-- Sexo: Desconhecido
-- Glicose: 144.0 mg/dL
-- Pressão Arterial: 82.0 mmHg
-- Insulina: 285.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Diabetes

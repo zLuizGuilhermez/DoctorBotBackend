@@ -1,0 +1,9 @@
+Paciente 104:
+- Idade: 24.0
+- Sexo: Desconhecido
+- Glicose: 81.0 mg/dL
+- Pressão Arterial: 72.0 mmHg
+- IMC: 26.6 
+- Insulina: 40.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

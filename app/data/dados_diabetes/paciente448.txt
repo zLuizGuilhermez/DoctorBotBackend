@@ -1,0 +1,9 @@
+Paciente 448:
+- Idade: 26.0
+- Sexo: Desconhecido
+- Glicose: 95.0 mg/dL
+- Pressão Arterial: 80.0 mmHg
+- IMC: 36.5 
+- Insulina: 92.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

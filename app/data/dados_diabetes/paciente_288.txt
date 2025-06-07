@@ -1,8 +1,0 @@
-Paciente 288:
-- Idade: 29.0
-- Sexo: Desconhecido
-- Glicose: 119.0 mg/dL
-- Pressão Arterial: 86.0 mmHg
-- Insulina: 220.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Diabetes

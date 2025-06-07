@@ -1,8 +1,0 @@
-Paciente 100:
-- Idade: 31.0
-- Sexo: Desconhecido
-- Glicose: 122.0 mg/dL
-- Pressão Arterial: 90.0 mmHg
-- Insulina: 220.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Diabetes

@@ -1,0 +1,9 @@
+Paciente 249:
+- Idade: 34.0
+- Sexo: Desconhecido
+- Glicose: 124.0 mg/dL
+- Pressão Arterial: 70.0 mmHg
+- IMC: 35.4 
+- Insulina: 402.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

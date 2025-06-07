@@ -1,0 +1,9 @@
+Paciente 6:
+- Idade: 30.0
+- Sexo: Desconhecido
+- Glicose: 116.0 mg/dL
+- Pressão Arterial: 74.0 mmHg
+- IMC: 25.6 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

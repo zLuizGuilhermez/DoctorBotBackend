@@ -1,0 +1,9 @@
+Paciente 710:
+- Idade: 23.0
+- Sexo: Desconhecido
+- Glicose: 93.0 mg/dL
+- Pressão Arterial: 64.0 mmHg
+- IMC: 38.0 
+- Insulina: 160.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

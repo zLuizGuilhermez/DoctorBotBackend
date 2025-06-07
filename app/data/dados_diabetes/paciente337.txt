@@ -1,0 +1,9 @@
+Paciente 337:
+- Idade: 44.0
+- Sexo: Desconhecido
+- Glicose: 117.0 mg/dL
+- Pressão Arterial: 0.0 mmHg
+- IMC: 33.8 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

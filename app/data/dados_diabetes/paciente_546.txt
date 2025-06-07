@@ -1,8 +1,0 @@
-Paciente 546:
-- Idade: 37.0
-- Sexo: Desconhecido
-- Glicose: 186.0 mg/dL
-- Pressão Arterial: 90.0 mmHg
-- Insulina: 225.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Diabetes

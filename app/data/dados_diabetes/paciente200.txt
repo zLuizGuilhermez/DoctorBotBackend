@@ -1,0 +1,9 @@
+Paciente 200:
+- Idade: 29.0
+- Sexo: Desconhecido
+- Glicose: 148.0 mg/dL
+- Pressão Arterial: 60.0 mmHg
+- IMC: 30.9 
+- Insulina: 318.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

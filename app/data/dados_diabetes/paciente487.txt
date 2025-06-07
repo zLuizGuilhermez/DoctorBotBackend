@@ -1,0 +1,9 @@
+Paciente 487:
+- Idade: 21.0
+- Sexo: Desconhecido
+- Glicose: 139.0 mg/dL
+- Pressão Arterial: 62.0 mmHg
+- IMC: 40.7 
+- Insulina: 480.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

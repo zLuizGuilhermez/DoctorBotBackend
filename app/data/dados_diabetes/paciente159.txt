@@ -1,0 +1,9 @@
+Paciente 159:
+- Idade: 22.0
+- Sexo: Desconhecido
+- Glicose: 88.0 mg/dL
+- Pressão Arterial: 74.0 mmHg
+- IMC: 29.0 
+- Insulina: 53.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

@@ -1,0 +1,9 @@
+Paciente 543:
+- Idade: 56.0
+- Sexo: Desconhecido
+- Glicose: 90.0 mg/dL
+- Pressão Arterial: 85.0 mmHg
+- IMC: 34.9 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

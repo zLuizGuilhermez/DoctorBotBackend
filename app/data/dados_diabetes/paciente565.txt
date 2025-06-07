@@ -1,0 +1,9 @@
+Paciente 565:
+- Idade: 27.0
+- Sexo: Desconhecido
+- Glicose: 91.0 mg/dL
+- Pressão Arterial: 80.0 mmHg
+- IMC: 32.4 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

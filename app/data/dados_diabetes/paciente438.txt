@@ -1,0 +1,9 @@
+Paciente 438:
+- Idade: 28.0
+- Sexo: Desconhecido
+- Glicose: 147.0 mg/dL
+- Pressão Arterial: 75.0 mmHg
+- IMC: 29.9 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

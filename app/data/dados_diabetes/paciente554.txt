@@ -1,0 +1,9 @@
+Paciente 554:
+- Idade: 23.0
+- Sexo: Desconhecido
+- Glicose: 88.0 mg/dL
+- Pressão Arterial: 62.0 mmHg
+- IMC: 29.9 
+- Insulina: 44.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

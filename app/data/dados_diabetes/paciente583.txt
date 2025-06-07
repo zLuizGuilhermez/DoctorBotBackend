@@ -1,0 +1,9 @@
+Paciente 583:
+- Idade: 62.0
+- Sexo: Desconhecido
+- Glicose: 121.0 mg/dL
+- Pressão Arterial: 78.0 mmHg
+- IMC: 26.5 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

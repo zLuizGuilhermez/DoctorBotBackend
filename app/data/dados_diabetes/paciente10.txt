@@ -1,0 +1,9 @@
+Paciente 10:
+- Idade: 54.0
+- Sexo: Desconhecido
+- Glicose: 125.0 mg/dL
+- Pressão Arterial: 96.0 mmHg
+- IMC: 0.0 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

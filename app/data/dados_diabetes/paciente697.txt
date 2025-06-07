@@ -1,0 +1,9 @@
+Paciente 697:
+- Idade: 31.0
+- Sexo: Desconhecido
+- Glicose: 169.0 mg/dL
+- Pressão Arterial: 74.0 mmHg
+- IMC: 29.9 
+- Insulina: 125.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

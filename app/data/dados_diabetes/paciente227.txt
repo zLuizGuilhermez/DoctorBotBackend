@@ -1,0 +1,9 @@
+Paciente 227:
+- Idade: 26.0
+- Sexo: Desconhecido
+- Glicose: 101.0 mg/dL
+- Pressão Arterial: 76.0 mmHg
+- IMC: 35.7 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

@@ -1,0 +1,9 @@
+Paciente 429:
+- Idade: 26.0
+- Sexo: Desconhecido
+- Glicose: 135.0 mg/dL
+- Pressão Arterial: 94.0 mmHg
+- IMC: 40.6 
+- Insulina: 145.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

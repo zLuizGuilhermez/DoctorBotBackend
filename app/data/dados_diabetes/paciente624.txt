@@ -1,0 +1,9 @@
+Paciente 624:
+- Idade: 21.0
+- Sexo: Desconhecido
+- Glicose: 94.0 mg/dL
+- Pressão Arterial: 70.0 mmHg
+- IMC: 43.5 
+- Insulina: 115.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

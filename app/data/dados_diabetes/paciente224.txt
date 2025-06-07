@@ -1,0 +1,9 @@
+Paciente 224:
+- Idade: 61.0
+- Sexo: Desconhecido
+- Glicose: 142.0 mg/dL
+- Pressão Arterial: 60.0 mmHg
+- IMC: 28.8 
+- Insulina: 190.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

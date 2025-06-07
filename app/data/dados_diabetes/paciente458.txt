@@ -1,0 +1,9 @@
+Paciente 458:
+- Idade: 24.0
+- Sexo: Desconhecido
+- Glicose: 86.0 mg/dL
+- Pressão Arterial: 68.0 mmHg
+- IMC: 30.2 
+- Insulina: 71.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

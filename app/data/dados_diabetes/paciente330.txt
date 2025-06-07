@@ -1,0 +1,9 @@
+Paciente 330:
+- Idade: 37.0
+- Sexo: Desconhecido
+- Glicose: 105.0 mg/dL
+- Pressão Arterial: 70.0 mmHg
+- IMC: 30.8 
+- Insulina: 68.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

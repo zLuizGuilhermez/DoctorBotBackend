@@ -1,8 +1,0 @@
-Paciente 293:
-- Idade: 31.0
-- Sexo: Desconhecido
-- Glicose: 128.0 mg/dL
-- Pressão Arterial: 78.0 mmHg
-- Insulina: 182.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Diabetes

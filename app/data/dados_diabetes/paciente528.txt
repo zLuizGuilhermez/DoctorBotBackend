@@ -1,0 +1,9 @@
+Paciente 528:
+- Idade: 24.0
+- Sexo: Desconhecido
+- Glicose: 116.0 mg/dL
+- Pressão Arterial: 74.0 mmHg
+- IMC: 26.3 
+- Insulina: 105.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

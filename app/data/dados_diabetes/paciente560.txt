@@ -1,0 +1,9 @@
+Paciente 560:
+- Idade: 35.0
+- Sexo: Desconhecido
+- Glicose: 85.0 mg/dL
+- Pressão Arterial: 74.0 mmHg
+- IMC: 30.1 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

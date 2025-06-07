@@ -1,0 +1,9 @@
+Paciente 215:
+- Idade: 36.0
+- Sexo: Desconhecido
+- Glicose: 112.0 mg/dL
+- Pressão Arterial: 82.0 mmHg
+- IMC: 34.2 
+- Insulina: 175.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

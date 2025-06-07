@@ -1,0 +1,9 @@
+Paciente 645:
+- Idade: 27.0
+- Sexo: Desconhecido
+- Glicose: 103.0 mg/dL
+- Pressão Arterial: 72.0 mmHg
+- IMC: 27.6 
+- Insulina: 152.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

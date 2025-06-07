@@ -1,8 +1,0 @@
-Paciente 188:
-- Idade: 33.0
-- Sexo: Desconhecido
-- Glicose: 128.0 mg/dL
-- Pressão Arterial: 98.0 mmHg
-- Insulina: 58.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Diabetes

@@ -1,0 +1,9 @@
+Paciente 316:
+- Idade: 26.0
+- Sexo: Desconhecido
+- Glicose: 112.0 mg/dL
+- Pressão Arterial: 68.0 mmHg
+- IMC: 34.1 
+- Insulina: 94.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

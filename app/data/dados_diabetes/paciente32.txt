@@ -1,0 +1,9 @@
+Paciente 32:
+- Idade: 28.0
+- Sexo: Desconhecido
+- Glicose: 158.0 mg/dL
+- Pressão Arterial: 76.0 mmHg
+- IMC: 31.6 
+- Insulina: 245.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

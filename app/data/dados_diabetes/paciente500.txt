@@ -1,0 +1,9 @@
+Paciente 500:
+- Idade: 39.0
+- Sexo: Desconhecido
+- Glicose: 154.0 mg/dL
+- Pressão Arterial: 74.0 mmHg
+- IMC: 29.3 
+- Insulina: 193.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

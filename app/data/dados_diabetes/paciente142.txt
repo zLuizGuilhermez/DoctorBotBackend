@@ -1,0 +1,9 @@
+Paciente 142:
+- Idade: 38.0
+- Sexo: Desconhecido
+- Glicose: 106.0 mg/dL
+- Pressão Arterial: 82.0 mmHg
+- IMC: 39.5 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

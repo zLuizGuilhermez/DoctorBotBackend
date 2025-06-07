@@ -1,0 +1,9 @@
+Paciente 83:
+- Idade: 36.0
+- Sexo: Desconhecido
+- Glicose: 83.0 mg/dL
+- Pressão Arterial: 78.0 mmHg
+- IMC: 29.3 
+- Insulina: 71.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

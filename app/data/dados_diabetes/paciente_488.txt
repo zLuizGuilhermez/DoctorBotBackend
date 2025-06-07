@@ -1,8 +1,0 @@
-Paciente 488:
-- Idade: 58.0
-- Sexo: Desconhecido
-- Glicose: 173.0 mg/dL
-- Pressão Arterial: 78.0 mmHg
-- Insulina: 265.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Normal

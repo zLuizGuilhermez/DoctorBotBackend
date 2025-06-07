@@ -1,8 +1,0 @@
-Paciente 126:
-- Idade: 26.0
-- Sexo: Desconhecido
-- Glicose: 88.0 mg/dL
-- Pressão Arterial: 30.0 mmHg
-- Insulina: 99.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Diabetes

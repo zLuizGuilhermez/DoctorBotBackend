@@ -1,8 +1,0 @@
-Paciente 153:
-- Idade: 42.0
-- Sexo: Desconhecido
-- Glicose: 156.0 mg/dL
-- Pressão Arterial: 86.0 mmHg
-- Insulina: 155.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Diabetes

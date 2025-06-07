@@ -1,0 +1,9 @@
+Paciente 53:
+- Idade: 30.0
+- Sexo: Desconhecido
+- Glicose: 88.0 mg/dL
+- Pressão Arterial: 66.0 mmHg
+- IMC: 24.4 
+- Insulina: 23.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

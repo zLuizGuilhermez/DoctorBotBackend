@@ -1,0 +1,9 @@
+Paciente 25:
+- Idade: 51.0
+- Sexo: Desconhecido
+- Glicose: 143.0 mg/dL
+- Pressão Arterial: 94.0 mmHg
+- IMC: 36.6 
+- Insulina: 146.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

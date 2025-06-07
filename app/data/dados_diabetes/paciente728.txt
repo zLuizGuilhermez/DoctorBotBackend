@@ -1,0 +1,9 @@
+Paciente 728:
+- Idade: 22.0
+- Sexo: Desconhecido
+- Glicose: 141.0 mg/dL
+- Pressão Arterial: 84.0 mmHg
+- IMC: 32.4 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

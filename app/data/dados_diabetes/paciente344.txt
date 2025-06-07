@@ -1,0 +1,9 @@
+Paciente 344:
+- Idade: 33.0
+- Sexo: Desconhecido
+- Glicose: 122.0 mg/dL
+- Pressão Arterial: 86.0 mmHg
+- IMC: 34.7 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

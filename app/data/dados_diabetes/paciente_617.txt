@@ -1,8 +1,0 @@
-Paciente 617:
-- Idade: 30.0
-- Sexo: Desconhecido
-- Glicose: 117.0 mg/dL
-- Pressão Arterial: 96.0 mmHg
-- Insulina: 0.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Normal

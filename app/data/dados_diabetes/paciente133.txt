@@ -1,0 +1,9 @@
+Paciente 133:
+- Idade: 30.0
+- Sexo: Desconhecido
+- Glicose: 170.0 mg/dL
+- Pressão Arterial: 64.0 mmHg
+- IMC: 34.5 
+- Insulina: 225.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

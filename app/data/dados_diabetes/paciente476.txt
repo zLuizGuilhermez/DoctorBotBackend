@@ -1,0 +1,9 @@
+Paciente 476:
+- Idade: 59.0
+- Sexo: Desconhecido
+- Glicose: 137.0 mg/dL
+- Pressão Arterial: 84.0 mmHg
+- IMC: 27.3 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

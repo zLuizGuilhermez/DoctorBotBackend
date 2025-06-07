@@ -1,8 +1,0 @@
-Paciente 135:
-- Idade: 26.0
-- Sexo: Desconhecido
-- Glicose: 96.0 mg/dL
-- Pressão Arterial: 68.0 mmHg
-- Insulina: 49.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Normal

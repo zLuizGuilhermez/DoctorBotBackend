@@ -1,8 +1,0 @@
-Paciente 634:
-- Idade: 22.0
-- Sexo: Desconhecido
-- Glicose: 128.0 mg/dL
-- Pressão Arterial: 82.0 mmHg
-- Insulina: 183.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Normal

@@ -1,8 +1,0 @@
-Paciente 729:
-- Idade: 22.0
-- Sexo: Desconhecido
-- Glicose: 175.0 mg/dL
-- Pressão Arterial: 88.0 mmHg
-- Insulina: 0.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Normal

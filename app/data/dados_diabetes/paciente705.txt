@@ -1,0 +1,9 @@
+Paciente 705:
+- Idade: 27.0
+- Sexo: Desconhecido
+- Glicose: 110.0 mg/dL
+- Pressão Arterial: 76.0 mmHg
+- IMC: 28.4 
+- Insulina: 100.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

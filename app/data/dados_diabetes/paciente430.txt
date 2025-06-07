@@ -1,0 +1,9 @@
+Paciente 430:
+- Idade: 43.0
+- Sexo: Desconhecido
+- Glicose: 95.0 mg/dL
+- Pressão Arterial: 82.0 mmHg
+- IMC: 35.0 
+- Insulina: 180.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

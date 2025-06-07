@@ -1,0 +1,9 @@
+Paciente 223:
+- Idade: 37.0
+- Sexo: Desconhecido
+- Glicose: 119.0 mg/dL
+- Pressão Arterial: 0.0 mmHg
+- IMC: 25.2 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

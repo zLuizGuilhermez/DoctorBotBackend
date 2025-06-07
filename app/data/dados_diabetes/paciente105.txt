@@ -1,0 +1,9 @@
+Paciente 105:
+- Idade: 27.0
+- Sexo: Desconhecido
+- Glicose: 85.0 mg/dL
+- Pressão Arterial: 65.0 mmHg
+- IMC: 39.6 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

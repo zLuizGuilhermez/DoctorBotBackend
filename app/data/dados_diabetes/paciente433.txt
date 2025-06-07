@@ -1,0 +1,9 @@
+Paciente 433:
+- Idade: 22.0
+- Sexo: Desconhecido
+- Glicose: 80.0 mg/dL
+- Pressão Arterial: 74.0 mmHg
+- IMC: 30.0 
+- Insulina: 60.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

@@ -1,0 +1,9 @@
+Paciente 299:
+- Idade: 46.0
+- Sexo: Desconhecido
+- Glicose: 100.0 mg/dL
+- Pressão Arterial: 78.0 mmHg
+- IMC: 36.6 
+- Insulina: 184.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

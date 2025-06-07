@@ -1,0 +1,9 @@
+Paciente 61:
+- Idade: 21.0
+- Sexo: Desconhecido
+- Glicose: 84.0 mg/dL
+- Pressão Arterial: 0.0 mmHg
+- IMC: 0.0 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

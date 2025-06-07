@@ -1,0 +1,9 @@
+Paciente 445:
+- Idade: 30.0
+- Sexo: Desconhecido
+- Glicose: 117.0 mg/dL
+- Pressão Arterial: 62.0 mmHg
+- IMC: 29.7 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

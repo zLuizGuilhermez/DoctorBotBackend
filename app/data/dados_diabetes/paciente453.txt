@@ -1,0 +1,9 @@
+Paciente 453:
+- Idade: 25.0
+- Sexo: Desconhecido
+- Glicose: 91.0 mg/dL
+- Pressão Arterial: 68.0 mmHg
+- IMC: 39.9 
+- Insulina: 210.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

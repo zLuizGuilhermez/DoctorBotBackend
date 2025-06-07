@@ -1,0 +1,9 @@
+Paciente 207:
+- Idade: 57.0
+- Sexo: Desconhecido
+- Glicose: 196.0 mg/dL
+- Pressão Arterial: 76.0 mmHg
+- IMC: 37.5 
+- Insulina: 280.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

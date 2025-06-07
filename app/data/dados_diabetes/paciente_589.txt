@@ -1,8 +1,0 @@
-Paciente 589:
-- Idade: 52.0
-- Sexo: Desconhecido
-- Glicose: 176.0 mg/dL
-- Pressão Arterial: 86.0 mmHg
-- Insulina: 156.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Diabetes

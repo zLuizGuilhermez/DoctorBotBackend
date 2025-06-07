@@ -1,8 +1,0 @@
-Paciente 384:
-- Idade: 25.0
-- Sexo: Desconhecido
-- Glicose: 90.0 mg/dL
-- Pressão Arterial: 62.0 mmHg
-- Insulina: 59.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Normal

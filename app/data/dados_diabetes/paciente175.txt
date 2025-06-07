@@ -1,0 +1,9 @@
+Paciente 175:
+- Idade: 33.0
+- Sexo: Desconhecido
+- Glicose: 75.0 mg/dL
+- Pressão Arterial: 64.0 mmHg
+- IMC: 29.7 
+- Insulina: 55.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

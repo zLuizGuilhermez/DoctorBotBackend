@@ -1,8 +1,0 @@
-Paciente 541:
-- Idade: 43.0
-- Sexo: Desconhecido
-- Glicose: 100.0 mg/dL
-- Pressão Arterial: 74.0 mmHg
-- Insulina: 215.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Diabetes

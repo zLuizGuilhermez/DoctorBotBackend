@@ -1,8 +1,0 @@
-Paciente 313:
-- Idade: 27.0
-- Sexo: Desconhecido
-- Glicose: 155.0 mg/dL
-- Pressão Arterial: 74.0 mmHg
-- Insulina: 96.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Diabetes

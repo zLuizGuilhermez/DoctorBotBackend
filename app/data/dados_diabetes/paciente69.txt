@@ -1,0 +1,9 @@
+Paciente 69:
+- Idade: 25.0
+- Sexo: Desconhecido
+- Glicose: 95.0 mg/dL
+- Pressão Arterial: 66.0 mmHg
+- IMC: 19.6 
+- Insulina: 38.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

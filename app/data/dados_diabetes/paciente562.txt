@@ -1,0 +1,9 @@
+Paciente 562:
+- Idade: 28.0
+- Sexo: Desconhecido
+- Glicose: 198.0 mg/dL
+- Pressão Arterial: 66.0 mmHg
+- IMC: 41.3 
+- Insulina: 274.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

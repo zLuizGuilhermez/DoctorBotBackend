@@ -1,0 +1,9 @@
+Paciente 585:
+- Idade: 52.0
+- Sexo: Desconhecido
+- Glicose: 124.0 mg/dL
+- Pressão Arterial: 76.0 mmHg
+- IMC: 28.7 
+- Insulina: 600.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

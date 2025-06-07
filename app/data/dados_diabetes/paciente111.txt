@@ -1,0 +1,9 @@
+Paciente 111:
+- Idade: 24.0
+- Sexo: Desconhecido
+- Glicose: 171.0 mg/dL
+- Pressão Arterial: 72.0 mmHg
+- IMC: 33.3 
+- Insulina: 135.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

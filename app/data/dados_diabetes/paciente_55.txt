@@ -1,8 +1,0 @@
-Paciente 55:
-- Idade: 42.0
-- Sexo: Desconhecido
-- Glicose: 150.0 mg/dL
-- Pressão Arterial: 66.0 mmHg
-- Insulina: 342.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Normal

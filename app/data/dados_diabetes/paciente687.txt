@@ -1,0 +1,9 @@
+Paciente 687:
+- Idade: 22.0
+- Sexo: Desconhecido
+- Glicose: 130.0 mg/dL
+- Pressão Arterial: 64.0 mmHg
+- IMC: 23.1 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

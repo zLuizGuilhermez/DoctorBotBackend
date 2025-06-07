@@ -1,0 +1,9 @@
+Paciente 226:
+- Idade: 22.0
+- Sexo: Desconhecido
+- Glicose: 87.0 mg/dL
+- Pressão Arterial: 78.0 mmHg
+- IMC: 34.6 
+- Insulina: 32.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

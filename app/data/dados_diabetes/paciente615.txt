@@ -1,0 +1,9 @@
+Paciente 615:
+- Idade: 50.0
+- Sexo: Desconhecido
+- Glicose: 138.0 mg/dL
+- Pressão Arterial: 74.0 mmHg
+- IMC: 36.1 
+- Insulina: 144.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

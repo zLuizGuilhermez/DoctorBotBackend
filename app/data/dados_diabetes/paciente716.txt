@@ -1,0 +1,9 @@
+Paciente 716:
+- Idade: 34.0
+- Sexo: Desconhecido
+- Glicose: 187.0 mg/dL
+- Pressão Arterial: 50.0 mmHg
+- IMC: 33.9 
+- Insulina: 392.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

@@ -1,8 +1,0 @@
-Paciente 302:
-- Idade: 25.0
-- Sexo: Desconhecido
-- Glicose: 144.0 mg/dL
-- Pressão Arterial: 58.0 mmHg
-- Insulina: 135.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Diabetes

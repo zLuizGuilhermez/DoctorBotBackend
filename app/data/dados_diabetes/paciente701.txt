@@ -1,0 +1,9 @@
+Paciente 701:
+- Idade: 26.0
+- Sexo: Desconhecido
+- Glicose: 122.0 mg/dL
+- Pressão Arterial: 76.0 mmHg
+- IMC: 35.9 
+- Insulina: 200.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

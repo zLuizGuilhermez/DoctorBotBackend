@@ -1,0 +1,9 @@
+Paciente 19:
+- Idade: 33.0
+- Sexo: Desconhecido
+- Glicose: 103.0 mg/dL
+- Pressão Arterial: 30.0 mmHg
+- IMC: 43.3 
+- Insulina: 83.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

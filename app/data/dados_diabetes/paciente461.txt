@@ -1,0 +1,9 @@
+Paciente 461:
+- Idade: 48.0
+- Sexo: Desconhecido
+- Glicose: 120.0 mg/dL
+- Pressão Arterial: 72.0 mmHg
+- IMC: 20.8 
+- Insulina: 56.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

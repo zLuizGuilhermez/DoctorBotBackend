@@ -1,8 +1,0 @@
-Paciente 618:
-- Idade: 23.0
-- Sexo: Desconhecido
-- Glicose: 68.0 mg/dL
-- Pressão Arterial: 62.0 mmHg
-- Insulina: 15.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Normal

@@ -1,8 +1,0 @@
-Paciente 443:
-- Idade: 24.0
-- Sexo: Desconhecido
-- Glicose: 117.0 mg/dL
-- Pressão Arterial: 64.0 mmHg
-- Insulina: 120.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Normal

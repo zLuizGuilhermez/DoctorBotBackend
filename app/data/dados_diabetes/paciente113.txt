@@ -1,0 +1,9 @@
+Paciente 113:
+- Idade: 23.0
+- Sexo: Desconhecido
+- Glicose: 89.0 mg/dL
+- Pressão Arterial: 76.0 mmHg
+- IMC: 31.2 
+- Insulina: 37.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

@@ -1,0 +1,9 @@
+Paciente 547:
+- Idade: 53.0
+- Sexo: Desconhecido
+- Glicose: 187.0 mg/dL
+- Pressão Arterial: 76.0 mmHg
+- IMC: 43.6 
+- Insulina: 207.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

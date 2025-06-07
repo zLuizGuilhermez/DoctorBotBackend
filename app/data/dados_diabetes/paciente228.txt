@@ -1,0 +1,9 @@
+Paciente 228:
+- Idade: 24.0
+- Sexo: Desconhecido
+- Glicose: 162.0 mg/dL
+- Pressão Arterial: 52.0 mmHg
+- IMC: 37.2 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

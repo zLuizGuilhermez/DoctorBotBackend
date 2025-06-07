@@ -1,0 +1,9 @@
+Paciente 511:
+- Idade: 46.0
+- Sexo: Desconhecido
+- Glicose: 84.0 mg/dL
+- Pressão Arterial: 72.0 mmHg
+- IMC: 29.7 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

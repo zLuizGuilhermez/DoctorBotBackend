@@ -1,8 +1,0 @@
-Paciente 306:
-- Idade: 29.0
-- Sexo: Desconhecido
-- Glicose: 120.0 mg/dL
-- Pressão Arterial: 76.0 mmHg
-- Insulina: 105.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Normal

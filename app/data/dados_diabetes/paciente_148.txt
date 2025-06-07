@@ -1,8 +1,0 @@
-Paciente 148:
-- Idade: 34.0
-- Sexo: Desconhecido
-- Glicose: 106.0 mg/dL
-- Pressão Arterial: 64.0 mmHg
-- Insulina: 119.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Normal

@@ -1,0 +1,9 @@
+Paciente 754:
+- Idade: 26.0
+- Sexo: Desconhecido
+- Glicose: 181.0 mg/dL
+- Pressão Arterial: 88.0 mmHg
+- IMC: 43.3 
+- Insulina: 510.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

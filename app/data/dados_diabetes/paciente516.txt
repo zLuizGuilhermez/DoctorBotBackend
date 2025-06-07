@@ -1,0 +1,9 @@
+Paciente 516:
+- Idade: 28.0
+- Sexo: Desconhecido
+- Glicose: 163.0 mg/dL
+- Pressão Arterial: 70.0 mmHg
+- IMC: 31.6 
+- Insulina: 105.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

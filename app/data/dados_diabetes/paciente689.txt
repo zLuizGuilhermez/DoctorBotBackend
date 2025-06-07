@@ -1,0 +1,9 @@
+Paciente 689:
+- Idade: 23.0
+- Sexo: Desconhecido
+- Glicose: 140.0 mg/dL
+- Pressão Arterial: 74.0 mmHg
+- IMC: 24.1 
+- Insulina: 180.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

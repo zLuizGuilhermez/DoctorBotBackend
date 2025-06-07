@@ -1,8 +1,0 @@
-Paciente 696:
-- Idade: 43.0
-- Sexo: Desconhecido
-- Glicose: 142.0 mg/dL
-- Pressão Arterial: 90.0 mmHg
-- Insulina: 480.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Diabetes

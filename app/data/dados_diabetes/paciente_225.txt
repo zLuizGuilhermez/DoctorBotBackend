@@ -1,8 +1,0 @@
-Paciente 225:
-- Idade: 26.0
-- Sexo: Desconhecido
-- Glicose: 100.0 mg/dL
-- Pressão Arterial: 66.0 mmHg
-- Insulina: 56.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Normal

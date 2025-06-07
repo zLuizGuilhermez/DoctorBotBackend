@@ -1,8 +1,0 @@
-Paciente 545:
-- Idade: 29.0
-- Sexo: Desconhecido
-- Glicose: 88.0 mg/dL
-- Pressão Arterial: 78.0 mmHg
-- Insulina: 76.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Normal

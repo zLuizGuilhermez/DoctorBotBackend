@@ -1,0 +1,9 @@
+Paciente 16:
+- Idade: 32.0
+- Sexo: Desconhecido
+- Glicose: 100.0 mg/dL
+- Pressão Arterial: 0.0 mmHg
+- IMC: 30.0 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

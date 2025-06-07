@@ -1,8 +1,0 @@
-Paciente 743:
-- Idade: 22.0
-- Sexo: Desconhecido
-- Glicose: 109.0 mg/dL
-- Pressão Arterial: 58.0 mmHg
-- Insulina: 116.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Normal

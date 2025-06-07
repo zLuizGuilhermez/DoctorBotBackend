@@ -1,0 +1,9 @@
+Paciente 693:
+- Idade: 23.0
+- Sexo: Desconhecido
+- Glicose: 121.0 mg/dL
+- Pressão Arterial: 70.0 mmHg
+- IMC: 39.1 
+- Insulina: 95.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

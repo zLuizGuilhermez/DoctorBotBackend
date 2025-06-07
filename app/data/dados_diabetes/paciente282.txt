@@ -1,0 +1,9 @@
+Paciente 282:
+- Idade: 39.0
+- Sexo: Desconhecido
+- Glicose: 129.0 mg/dL
+- Pressão Arterial: 76.0 mmHg
+- IMC: 35.9 
+- Insulina: 122.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

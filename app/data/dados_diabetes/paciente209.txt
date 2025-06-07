@@ -1,0 +1,9 @@
+Paciente 209:
+- Idade: 21.0
+- Sexo: Desconhecido
+- Glicose: 96.0 mg/dL
+- Pressão Arterial: 64.0 mmHg
+- IMC: 33.2 
+- Insulina: 87.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

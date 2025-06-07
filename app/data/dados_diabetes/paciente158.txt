@@ -1,0 +1,9 @@
+Paciente 158:
+- Idade: 23.0
+- Sexo: Desconhecido
+- Glicose: 109.0 mg/dL
+- Pressão Arterial: 56.0 mmHg
+- IMC: 25.2 
+- Insulina: 135.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

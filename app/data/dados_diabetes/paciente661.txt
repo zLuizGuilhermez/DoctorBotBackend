@@ -1,0 +1,9 @@
+Paciente 661:
+- Idade: 54.0
+- Sexo: Desconhecido
+- Glicose: 162.0 mg/dL
+- Pressão Arterial: 84.0 mmHg
+- IMC: 27.7 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

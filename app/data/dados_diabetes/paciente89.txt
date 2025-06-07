@@ -1,0 +1,9 @@
+Paciente 89:
+- Idade: 43.0
+- Sexo: Desconhecido
+- Glicose: 136.0 mg/dL
+- Pressão Arterial: 70.0 mmHg
+- IMC: 37.1 
+- Insulina: 110.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

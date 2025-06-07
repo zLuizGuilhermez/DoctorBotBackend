@@ -1,8 +1,0 @@
-Paciente 311:
-- Idade: 41.0
-- Sexo: Desconhecido
-- Glicose: 80.0 mg/dL
-- Pressão Arterial: 66.0 mmHg
-- Insulina: 0.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Normal

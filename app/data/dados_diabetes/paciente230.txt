@@ -1,0 +1,9 @@
+Paciente 230:
+- Idade: 24.0
+- Sexo: Desconhecido
+- Glicose: 117.0 mg/dL
+- Pressão Arterial: 80.0 mmHg
+- IMC: 45.2 
+- Insulina: 53.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

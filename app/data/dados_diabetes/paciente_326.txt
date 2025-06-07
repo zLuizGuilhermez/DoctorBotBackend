@@ -1,8 +1,0 @@
-Paciente 326:
-- Idade: 24.0
-- Sexo: Desconhecido
-- Glicose: 157.0 mg/dL
-- Pressão Arterial: 72.0 mmHg
-- Insulina: 168.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Normal

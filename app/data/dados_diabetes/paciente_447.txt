@@ -1,8 +1,0 @@
-Paciente 447:
-- Idade: 28.0
-- Sexo: Desconhecido
-- Glicose: 100.0 mg/dL
-- Pressão Arterial: 72.0 mmHg
-- Insulina: 70.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Normal

@@ -1,0 +1,9 @@
+Paciente 704:
+- Idade: 41.0
+- Sexo: Desconhecido
+- Glicose: 129.0 mg/dL
+- Pressão Arterial: 0.0 mmHg
+- IMC: 38.5 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

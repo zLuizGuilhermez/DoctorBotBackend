@@ -1,0 +1,9 @@
+Paciente 70:
+- Idade: 27.0
+- Sexo: Desconhecido
+- Glicose: 146.0 mg/dL
+- Pressão Arterial: 85.0 mmHg
+- IMC: 28.9 
+- Insulina: 100.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

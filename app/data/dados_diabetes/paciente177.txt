@@ -1,0 +1,9 @@
+Paciente 177:
+- Idade: 42.0
+- Sexo: Desconhecido
+- Glicose: 85.0 mg/dL
+- Pressão Arterial: 78.0 mmHg
+- IMC: 31.2 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

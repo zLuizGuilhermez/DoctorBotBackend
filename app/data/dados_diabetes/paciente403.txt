@@ -1,0 +1,9 @@
+Paciente 403:
+- Idade: 35.0
+- Sexo: Desconhecido
+- Glicose: 136.0 mg/dL
+- Pressão Arterial: 84.0 mmHg
+- IMC: 35.0 
+- Insulina: 88.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

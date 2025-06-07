@@ -1,0 +1,9 @@
+Paciente 108:
+- Idade: 37.0
+- Sexo: Desconhecido
+- Glicose: 144.0 mg/dL
+- Pressão Arterial: 58.0 mmHg
+- IMC: 29.5 
+- Insulina: 140.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

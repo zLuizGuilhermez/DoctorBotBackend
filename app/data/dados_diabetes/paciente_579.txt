@@ -1,8 +1,0 @@
-Paciente 579:
-- Idade: 36.0
-- Sexo: Desconhecido
-- Glicose: 133.0 mg/dL
-- Pressão Arterial: 68.0 mmHg
-- Insulina: 0.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Normal

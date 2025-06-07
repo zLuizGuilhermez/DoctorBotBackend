@@ -1,0 +1,9 @@
+Paciente 641:
+- Idade: 27.0
+- Sexo: Desconhecido
+- Glicose: 102.0 mg/dL
+- Pressão Arterial: 86.0 mmHg
+- IMC: 29.3 
+- Insulina: 105.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

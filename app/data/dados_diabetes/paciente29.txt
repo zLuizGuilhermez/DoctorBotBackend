@@ -1,0 +1,9 @@
+Paciente 29:
+- Idade: 57.0
+- Sexo: Desconhecido
+- Glicose: 145.0 mg/dL
+- Pressão Arterial: 82.0 mmHg
+- IMC: 22.2 
+- Insulina: 110.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

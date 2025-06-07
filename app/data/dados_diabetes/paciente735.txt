@@ -1,0 +1,9 @@
+Paciente 735:
+- Idade: 53.0
+- Sexo: Desconhecido
+- Glicose: 105.0 mg/dL
+- Pressão Arterial: 75.0 mmHg
+- IMC: 23.3 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

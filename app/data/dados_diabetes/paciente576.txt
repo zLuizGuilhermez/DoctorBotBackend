@@ -1,0 +1,9 @@
+Paciente 576:
+- Idade: 25.0
+- Sexo: Desconhecido
+- Glicose: 119.0 mg/dL
+- Pressão Arterial: 44.0 mmHg
+- IMC: 35.5 
+- Insulina: 63.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

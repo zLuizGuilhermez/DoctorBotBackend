@@ -1,0 +1,9 @@
+Paciente 213:
+- Idade: 60.0
+- Sexo: Desconhecido
+- Glicose: 179.0 mg/dL
+- Pressão Arterial: 95.0 mmHg
+- IMC: 34.2 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

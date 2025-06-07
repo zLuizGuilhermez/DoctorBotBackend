@@ -1,0 +1,9 @@
+Paciente 214:
+- Idade: 24.0
+- Sexo: Desconhecido
+- Glicose: 140.0 mg/dL
+- Pressão Arterial: 65.0 mmHg
+- IMC: 42.6 
+- Insulina: 130.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

@@ -1,0 +1,9 @@
+Paciente 604:
+- Idade: 54.0
+- Sexo: Desconhecido
+- Glicose: 150.0 mg/dL
+- Pressão Arterial: 78.0 mmHg
+- IMC: 35.2 
+- Insulina: 126.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

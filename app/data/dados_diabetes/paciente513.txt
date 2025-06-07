@@ -1,0 +1,9 @@
+Paciente 513:
+- Idade: 58.0
+- Sexo: Desconhecido
+- Glicose: 91.0 mg/dL
+- Pressão Arterial: 68.0 mmHg
+- IMC: 24.2 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

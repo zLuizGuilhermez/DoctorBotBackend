@@ -1,8 +1,0 @@
-Paciente 379:
-- Idade: 32.0
-- Sexo: Desconhecido
-- Glicose: 156.0 mg/dL
-- Pressão Arterial: 75.0 mmHg
-- Insulina: 0.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Diabetes

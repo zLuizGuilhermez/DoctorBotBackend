@@ -1,0 +1,9 @@
+Paciente 498:
+- Idade: 25.0
+- Sexo: Desconhecido
+- Glicose: 81.0 mg/dL
+- Pressão Arterial: 72.0 mmHg
+- IMC: 30.1 
+- Insulina: 76.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

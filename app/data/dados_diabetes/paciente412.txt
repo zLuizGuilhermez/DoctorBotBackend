@@ -1,0 +1,9 @@
+Paciente 412:
+- Idade: 25.0
+- Sexo: Desconhecido
+- Glicose: 112.0 mg/dL
+- Pressão Arterial: 72.0 mmHg
+- IMC: 34.4 
+- Insulina: 176.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

@@ -1,0 +1,9 @@
+Paciente 26:
+- Idade: 41.0
+- Sexo: Desconhecido
+- Glicose: 125.0 mg/dL
+- Pressão Arterial: 70.0 mmHg
+- IMC: 31.1 
+- Insulina: 115.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

@@ -1,0 +1,9 @@
+Paciente 255:
+- Idade: 44.0
+- Sexo: Desconhecido
+- Glicose: 92.0 mg/dL
+- Pressão Arterial: 62.0 mmHg
+- IMC: 27.6 
+- Insulina: 258.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

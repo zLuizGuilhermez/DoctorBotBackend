@@ -1,0 +1,9 @@
+Paciente 756:
+- Idade: 37.0
+- Sexo: Desconhecido
+- Glicose: 128.0 mg/dL
+- Pressão Arterial: 88.0 mmHg
+- IMC: 36.5 
+- Insulina: 110.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

@@ -1,0 +1,9 @@
+Paciente 160:
+- Idade: 47.0
+- Sexo: Desconhecido
+- Glicose: 163.0 mg/dL
+- Pressão Arterial: 72.0 mmHg
+- IMC: 40.9 
+- Insulina: 114.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

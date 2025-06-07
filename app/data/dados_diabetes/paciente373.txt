@@ -1,0 +1,9 @@
+Paciente 373:
+- Idade: 21.0
+- Sexo: Desconhecido
+- Glicose: 84.0 mg/dL
+- Pressão Arterial: 64.0 mmHg
+- IMC: 35.8 
+- Insulina: 66.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

@@ -1,0 +1,9 @@
+Paciente 101:
+- Idade: 33.0
+- Sexo: Desconhecido
+- Glicose: 163.0 mg/dL
+- Pressão Arterial: 72.0 mmHg
+- IMC: 39.0 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

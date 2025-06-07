@@ -1,0 +1,9 @@
+Paciente 199:
+- Idade: 26.0
+- Sexo: Desconhecido
+- Glicose: 109.0 mg/dL
+- Pressão Arterial: 64.0 mmHg
+- IMC: 34.8 
+- Insulina: 99.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

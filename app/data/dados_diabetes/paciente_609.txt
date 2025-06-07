@@ -1,8 +1,0 @@
-Paciente 609:
-- Idade: 27.0
-- Sexo: Desconhecido
-- Glicose: 152.0 mg/dL
-- Pressão Arterial: 82.0 mmHg
-- Insulina: 272.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Normal

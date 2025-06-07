@@ -1,0 +1,9 @@
+Paciente 664:
+- Idade: 40.0
+- Sexo: Desconhecido
+- Glicose: 145.0 mg/dL
+- Pressão Arterial: 80.0 mmHg
+- IMC: 37.9 
+- Insulina: 130.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

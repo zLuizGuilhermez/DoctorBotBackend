@@ -1,0 +1,9 @@
+Paciente 308:
+- Idade: 21.0
+- Sexo: Desconhecido
+- Glicose: 137.0 mg/dL
+- Pressão Arterial: 68.0 mmHg
+- IMC: 24.8 
+- Insulina: 148.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

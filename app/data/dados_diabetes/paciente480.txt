@@ -1,0 +1,9 @@
+Paciente 480:
+- Idade: 63.0
+- Sexo: Desconhecido
+- Glicose: 132.0 mg/dL
+- Pressão Arterial: 86.0 mmHg
+- IMC: 28.0 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

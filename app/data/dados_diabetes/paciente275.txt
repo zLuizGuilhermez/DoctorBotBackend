@@ -1,0 +1,9 @@
+Paciente 275:
+- Idade: 52.0
+- Sexo: Desconhecido
+- Glicose: 106.0 mg/dL
+- Pressão Arterial: 70.0 mmHg
+- IMC: 34.2 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

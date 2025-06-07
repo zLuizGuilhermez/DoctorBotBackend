@@ -1,0 +1,9 @@
+Paciente 651:
+- Idade: 23.0
+- Sexo: Desconhecido
+- Glicose: 91.0 mg/dL
+- Pressão Arterial: 54.0 mmHg
+- IMC: 25.2 
+- Insulina: 100.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

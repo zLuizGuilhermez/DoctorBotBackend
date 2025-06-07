@@ -1,0 +1,9 @@
+Paciente 570:
+- Idade: 33.0
+- Sexo: Desconhecido
+- Glicose: 121.0 mg/dL
+- Pressão Arterial: 66.0 mmHg
+- IMC: 34.3 
+- Insulina: 165.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

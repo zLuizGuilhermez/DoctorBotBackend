@@ -1,0 +1,9 @@
+Paciente 318:
+- Idade: 29.0
+- Sexo: Desconhecido
+- Glicose: 182.0 mg/dL
+- Pressão Arterial: 74.0 mmHg
+- IMC: 30.5 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

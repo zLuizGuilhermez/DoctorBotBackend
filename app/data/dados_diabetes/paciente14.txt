@@ -1,0 +1,9 @@
+Paciente 14:
+- Idade: 59.0
+- Sexo: Desconhecido
+- Glicose: 189.0 mg/dL
+- Pressão Arterial: 60.0 mmHg
+- IMC: 30.1 
+- Insulina: 846.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

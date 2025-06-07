@@ -1,0 +1,9 @@
+Paciente 737:
+- Idade: 21.0
+- Sexo: Desconhecido
+- Glicose: 126.0 mg/dL
+- Pressão Arterial: 86.0 mmHg
+- IMC: 27.4 
+- Insulina: 120.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

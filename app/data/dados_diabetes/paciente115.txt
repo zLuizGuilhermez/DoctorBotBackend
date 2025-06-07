@@ -1,0 +1,9 @@
+Paciente 115:
+- Idade: 39.0
+- Sexo: Desconhecido
+- Glicose: 160.0 mg/dL
+- Pressão Arterial: 54.0 mmHg
+- IMC: 30.5 
+- Insulina: 175.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

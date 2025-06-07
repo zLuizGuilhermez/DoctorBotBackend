@@ -1,0 +1,9 @@
+Paciente 331:
+- Idade: 46.0
+- Sexo: Desconhecido
+- Glicose: 118.0 mg/dL
+- Pressão Arterial: 72.0 mmHg
+- IMC: 23.1 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

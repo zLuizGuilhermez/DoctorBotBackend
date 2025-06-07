@@ -1,0 +1,9 @@
+Paciente 517:
+- Idade: 53.0
+- Sexo: Desconhecido
+- Glicose: 145.0 mg/dL
+- Pressão Arterial: 88.0 mmHg
+- IMC: 30.3 
+- Insulina: 165.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

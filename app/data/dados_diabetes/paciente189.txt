@@ -1,0 +1,9 @@
+Paciente 189:
+- Idade: 31.0
+- Sexo: Desconhecido
+- Glicose: 109.0 mg/dL
+- Pressão Arterial: 76.0 mmHg
+- IMC: 27.9 
+- Insulina: 114.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

@@ -1,0 +1,9 @@
+Paciente 17:
+- Idade: 31.0
+- Sexo: Desconhecido
+- Glicose: 118.0 mg/dL
+- Pressão Arterial: 84.0 mmHg
+- IMC: 45.8 
+- Insulina: 230.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

@@ -1,0 +1,9 @@
+Paciente 222:
+- Idade: 66.0
+- Sexo: Desconhecido
+- Glicose: 158.0 mg/dL
+- Pressão Arterial: 90.0 mmHg
+- IMC: 31.6 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

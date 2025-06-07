@@ -1,0 +1,9 @@
+Paciente 730:
+- Idade: 22.0
+- Sexo: Desconhecido
+- Glicose: 92.0 mg/dL
+- Pressão Arterial: 52.0 mmHg
+- IMC: 30.1 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

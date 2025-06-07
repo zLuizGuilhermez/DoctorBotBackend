@@ -1,0 +1,9 @@
+Paciente 694:
+- Idade: 43.0
+- Sexo: Desconhecido
+- Glicose: 129.0 mg/dL
+- Pressão Arterial: 68.0 mmHg
+- IMC: 38.5 
+- Insulina: 125.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

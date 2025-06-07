@@ -1,0 +1,9 @@
+Paciente 205:
+- Idade: 55.0
+- Sexo: Desconhecido
+- Glicose: 103.0 mg/dL
+- Pressão Arterial: 72.0 mmHg
+- IMC: 37.7 
+- Insulina: 190.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

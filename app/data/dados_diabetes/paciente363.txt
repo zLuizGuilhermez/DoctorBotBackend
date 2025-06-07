@@ -1,0 +1,9 @@
+Paciente 363:
+- Idade: 65.0
+- Sexo: Desconhecido
+- Glicose: 103.0 mg/dL
+- Pressão Arterial: 108.0 mmHg
+- IMC: 39.2 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

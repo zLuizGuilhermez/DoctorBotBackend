@@ -1,0 +1,9 @@
+Paciente 409:
+- Idade: 39.0
+- Sexo: Desconhecido
+- Glicose: 197.0 mg/dL
+- Pressão Arterial: 74.0 mmHg
+- IMC: 25.9 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

@@ -1,0 +1,9 @@
+Paciente 374:
+- Idade: 25.0
+- Sexo: Desconhecido
+- Glicose: 105.0 mg/dL
+- Pressão Arterial: 58.0 mmHg
+- IMC: 34.9 
+- Insulina: 94.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

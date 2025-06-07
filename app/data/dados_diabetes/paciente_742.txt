@@ -1,8 +1,0 @@
-Paciente 742:
-- Idade: 26.0
-- Sexo: Desconhecido
-- Glicose: 102.0 mg/dL
-- Pressão Arterial: 44.0 mmHg
-- Insulina: 94.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Normal

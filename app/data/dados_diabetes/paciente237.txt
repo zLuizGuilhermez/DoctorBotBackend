@@ -1,0 +1,9 @@
+Paciente 237:
+- Idade: 51.0
+- Sexo: Desconhecido
+- Glicose: 181.0 mg/dL
+- Pressão Arterial: 84.0 mmHg
+- IMC: 35.9 
+- Insulina: 192.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

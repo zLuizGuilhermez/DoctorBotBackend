@@ -1,0 +1,9 @@
+Paciente 356:
+- Idade: 49.0
+- Sexo: Desconhecido
+- Glicose: 165.0 mg/dL
+- Pressão Arterial: 88.0 mmHg
+- IMC: 30.4 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

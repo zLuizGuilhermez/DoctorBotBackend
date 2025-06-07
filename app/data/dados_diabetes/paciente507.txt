@@ -1,0 +1,9 @@
+Paciente 507:
+- Idade: 35.0
+- Sexo: Desconhecido
+- Glicose: 180.0 mg/dL
+- Pressão Arterial: 90.0 mmHg
+- IMC: 36.5 
+- Insulina: 90.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

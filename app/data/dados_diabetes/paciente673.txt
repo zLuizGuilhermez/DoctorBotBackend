@@ -1,0 +1,9 @@
+Paciente 673:
+- Idade: 47.0
+- Sexo: Desconhecido
+- Glicose: 68.0 mg/dL
+- Pressão Arterial: 106.0 mmHg
+- IMC: 35.5 
+- Insulina: 49.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

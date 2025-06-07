@@ -1,0 +1,9 @@
+Paciente 174:
+- Idade: 23.0
+- Sexo: Desconhecido
+- Glicose: 79.0 mg/dL
+- Pressão Arterial: 60.0 mmHg
+- IMC: 43.5 
+- Insulina: 48.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

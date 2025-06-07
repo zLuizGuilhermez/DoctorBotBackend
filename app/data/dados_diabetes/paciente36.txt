@@ -1,0 +1,9 @@
+Paciente 36:
+- Idade: 33.0
+- Sexo: Desconhecido
+- Glicose: 103.0 mg/dL
+- Pressão Arterial: 60.0 mmHg
+- IMC: 24.0 
+- Insulina: 192.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

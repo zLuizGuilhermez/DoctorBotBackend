@@ -1,0 +1,9 @@
+Paciente 375:
+- Idade: 28.0
+- Sexo: Desconhecido
+- Glicose: 122.0 mg/dL
+- Pressão Arterial: 52.0 mmHg
+- IMC: 36.2 
+- Insulina: 158.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

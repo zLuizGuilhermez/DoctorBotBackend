@@ -1,0 +1,9 @@
+Paciente 164:
+- Idade: 21.0
+- Sexo: Desconhecido
+- Glicose: 100.0 mg/dL
+- Pressão Arterial: 64.0 mmHg
+- IMC: 29.7 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

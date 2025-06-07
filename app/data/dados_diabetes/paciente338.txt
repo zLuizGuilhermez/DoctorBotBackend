@@ -1,0 +1,9 @@
+Paciente 338:
+- Idade: 44.0
+- Sexo: Desconhecido
+- Glicose: 115.0 mg/dL
+- Pressão Arterial: 76.0 mmHg
+- IMC: 31.2 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

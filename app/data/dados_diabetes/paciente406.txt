@@ -1,0 +1,9 @@
+Paciente 406:
+- Idade: 26.0
+- Sexo: Desconhecido
+- Glicose: 123.0 mg/dL
+- Pressão Arterial: 48.0 mmHg
+- IMC: 42.1 
+- Insulina: 165.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

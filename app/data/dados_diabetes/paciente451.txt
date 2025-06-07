@@ -1,0 +1,9 @@
+Paciente 451:
+- Idade: 23.0
+- Sexo: Desconhecido
+- Glicose: 82.0 mg/dL
+- Pressão Arterial: 64.0 mmHg
+- IMC: 21.2 
+- Insulina: 95.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

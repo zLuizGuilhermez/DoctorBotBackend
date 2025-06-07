@@ -1,8 +1,0 @@
-Paciente 745:
-- Idade: 39.0
-- Sexo: Desconhecido
-- Glicose: 153.0 mg/dL
-- Pressão Arterial: 88.0 mmHg
-- Insulina: 140.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Normal

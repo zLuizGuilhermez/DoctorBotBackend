@@ -1,0 +1,9 @@
+Paciente 131:
+- Idade: 33.0
+- Sexo: Desconhecido
+- Glicose: 173.0 mg/dL
+- Pressão Arterial: 70.0 mmHg
+- IMC: 29.7 
+- Insulina: 168.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

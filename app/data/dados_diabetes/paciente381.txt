@@ -1,0 +1,9 @@
+Paciente 381:
+- Idade: 24.0
+- Sexo: Desconhecido
+- Glicose: 107.0 mg/dL
+- Pressão Arterial: 72.0 mmHg
+- IMC: 30.8 
+- Insulina: 82.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

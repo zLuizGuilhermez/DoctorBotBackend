@@ -1,0 +1,9 @@
+Paciente 244:
+- Idade: 33.0
+- Sexo: Desconhecido
+- Glicose: 119.0 mg/dL
+- Pressão Arterial: 50.0 mmHg
+- IMC: 27.1 
+- Insulina: 176.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

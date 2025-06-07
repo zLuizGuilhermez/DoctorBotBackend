@@ -1,0 +1,9 @@
+Paciente 276:
+- Idade: 25.0
+- Sexo: Desconhecido
+- Glicose: 100.0 mg/dL
+- Pressão Arterial: 70.0 mmHg
+- IMC: 40.5 
+- Insulina: 57.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

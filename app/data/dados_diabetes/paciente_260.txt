@@ -1,8 +1,0 @@
-Paciente 260:
-- Idade: 51.0
-- Sexo: Desconhecido
-- Glicose: 155.0 mg/dL
-- Pressão Arterial: 76.0 mmHg
-- Insulina: 150.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Diabetes

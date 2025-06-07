@@ -1,0 +1,9 @@
+Paciente 263:
+- Idade: 24.0
+- Sexo: Desconhecido
+- Glicose: 95.0 mg/dL
+- Pressão Arterial: 70.0 mmHg
+- IMC: 32.1 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

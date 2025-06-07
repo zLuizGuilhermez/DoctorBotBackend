@@ -1,0 +1,9 @@
+Paciente 206:
+- Idade: 27.0
+- Sexo: Desconhecido
+- Glicose: 111.0 mg/dL
+- Pressão Arterial: 72.0 mmHg
+- IMC: 23.9 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

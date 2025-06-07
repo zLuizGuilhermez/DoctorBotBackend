@@ -1,8 +1,0 @@
-Paciente 765:
-- Idade: 27.0
-- Sexo: Desconhecido
-- Glicose: 122.0 mg/dL
-- Pressão Arterial: 70.0 mmHg
-- Insulina: 0.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Normal

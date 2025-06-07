@@ -1,0 +1,9 @@
+Paciente 247:
+- Idade: 41.0
+- Sexo: Desconhecido
+- Glicose: 122.0 mg/dL
+- Pressão Arterial: 68.0 mmHg
+- IMC: 31.2 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

@@ -1,0 +1,9 @@
+Paciente 744:
+- Idade: 45.0
+- Sexo: Desconhecido
+- Glicose: 140.0 mg/dL
+- Pressão Arterial: 94.0 mmHg
+- IMC: 32.7 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

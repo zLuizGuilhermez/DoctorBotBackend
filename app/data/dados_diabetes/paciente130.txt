@@ -1,0 +1,9 @@
+Paciente 130:
+- Idade: 62.0
+- Sexo: Desconhecido
+- Glicose: 105.0 mg/dL
+- Pressão Arterial: 84.0 mmHg
+- IMC: 27.9 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

@@ -1,0 +1,9 @@
+Paciente 349:
+- Idade: 26.0
+- Sexo: Desconhecido
+- Glicose: 99.0 mg/dL
+- Pressão Arterial: 62.0 mmHg
+- IMC: 21.8 
+- Insulina: 74.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

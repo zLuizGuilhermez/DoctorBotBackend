@@ -1,8 +1,0 @@
-Paciente 749:
-- Idade: 36.0
-- Sexo: Desconhecido
-- Glicose: 187.0 mg/dL
-- Pressão Arterial: 70.0 mmHg
-- Insulina: 200.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Diabetes

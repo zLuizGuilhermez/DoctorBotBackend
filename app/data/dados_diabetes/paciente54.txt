@@ -1,0 +1,9 @@
+Paciente 54:
+- Idade: 58.0
+- Sexo: Desconhecido
+- Glicose: 176.0 mg/dL
+- Pressão Arterial: 90.0 mmHg
+- IMC: 33.7 
+- Insulina: 300.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

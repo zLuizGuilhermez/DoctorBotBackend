@@ -1,0 +1,9 @@
+Paciente 555:
+- Idade: 28.0
+- Sexo: Desconhecido
+- Glicose: 84.0 mg/dL
+- Pressão Arterial: 64.0 mmHg
+- IMC: 36.9 
+- Insulina: 115.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

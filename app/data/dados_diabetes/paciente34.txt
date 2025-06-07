@@ -1,0 +1,9 @@
+Paciente 34:
+- Idade: 28.0
+- Sexo: Desconhecido
+- Glicose: 92.0 mg/dL
+- Pressão Arterial: 92.0 mmHg
+- IMC: 19.9 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

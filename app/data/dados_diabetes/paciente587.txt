@@ -1,0 +1,9 @@
+Paciente 587:
+- Idade: 41.0
+- Sexo: Desconhecido
+- Glicose: 143.0 mg/dL
+- Pressão Arterial: 66.0 mmHg
+- IMC: 34.9 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

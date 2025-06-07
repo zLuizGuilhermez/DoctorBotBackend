@@ -1,0 +1,9 @@
+Paciente 181:
+- Idade: 32.0
+- Sexo: Desconhecido
+- Glicose: 87.0 mg/dL
+- Pressão Arterial: 80.0 mmHg
+- IMC: 23.2 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

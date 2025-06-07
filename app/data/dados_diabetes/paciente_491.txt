@@ -1,8 +1,0 @@
-Paciente 491:
-- Idade: 24.0
-- Sexo: Desconhecido
-- Glicose: 83.0 mg/dL
-- Pressão Arterial: 65.0 mmHg
-- Insulina: 66.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Normal

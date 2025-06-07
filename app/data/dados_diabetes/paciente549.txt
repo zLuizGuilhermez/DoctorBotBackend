@@ -1,0 +1,9 @@
+Paciente 549:
+- Idade: 50.0
+- Sexo: Desconhecido
+- Glicose: 164.0 mg/dL
+- Pressão Arterial: 82.0 mmHg
+- IMC: 32.8 
+- Insulina: 67.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

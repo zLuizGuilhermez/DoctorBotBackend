@@ -1,0 +1,9 @@
+Paciente 106:
+- Idade: 21.0
+- Sexo: Desconhecido
+- Glicose: 126.0 mg/dL
+- Pressão Arterial: 56.0 mmHg
+- IMC: 28.7 
+- Insulina: 152.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

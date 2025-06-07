@@ -1,8 +1,0 @@
-Paciente 663:
-- Idade: 43.0
-- Sexo: Desconhecido
-- Glicose: 167.0 mg/dL
-- Pressão Arterial: 106.0 mmHg
-- Insulina: 231.0 µU/mL
-- HbA1c estimada: Não informada
-- Diagnóstico: Diabetes

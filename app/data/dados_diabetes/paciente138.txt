@@ -1,0 +1,9 @@
+Paciente 138:
+- Idade: 22.0
+- Sexo: Desconhecido
+- Glicose: 93.0 mg/dL
+- Pressão Arterial: 60.0 mmHg
+- IMC: 28.7 
+- Insulina: 92.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

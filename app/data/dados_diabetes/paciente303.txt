@@ -1,0 +1,9 @@
+Paciente 303:
+- Idade: 35.0
+- Sexo: Desconhecido
+- Glicose: 77.0 mg/dL
+- Pressão Arterial: 82.0 mmHg
+- IMC: 35.8 
+- Insulina: 42.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

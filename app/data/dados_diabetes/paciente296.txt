@@ -1,0 +1,9 @@
+Paciente 296:
+- Idade: 28.0
+- Sexo: Desconhecido
+- Glicose: 151.0 mg/dL
+- Pressão Arterial: 62.0 mmHg
+- IMC: 35.5 
+- Insulina: 120.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

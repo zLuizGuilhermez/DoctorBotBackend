@@ -1,0 +1,9 @@
+Paciente 649:
+- Idade: 42.0
+- Sexo: Desconhecido
+- Glicose: 136.0 mg/dL
+- Pressão Arterial: 84.0 mmHg
+- IMC: 28.3 
+- Insulina: 130.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

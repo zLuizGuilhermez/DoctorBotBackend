@@ -1,0 +1,9 @@
+Paciente 592:
+- Idade: 24.0
+- Sexo: Desconhecido
+- Glicose: 112.0 mg/dL
+- Pressão Arterial: 78.0 mmHg
+- IMC: 39.4 
+- Insulina: 140.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

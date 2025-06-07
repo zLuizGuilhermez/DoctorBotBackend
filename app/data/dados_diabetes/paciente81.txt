@@ -1,0 +1,9 @@
+Paciente 81:
+- Idade: 22.0
+- Sexo: Desconhecido
+- Glicose: 113.0 mg/dL
+- Pressão Arterial: 44.0 mmHg
+- IMC: 22.4 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

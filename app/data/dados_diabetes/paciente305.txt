@@ -1,0 +1,9 @@
+Paciente 305:
+- Idade: 37.0
+- Sexo: Desconhecido
+- Glicose: 150.0 mg/dL
+- Pressão Arterial: 76.0 mmHg
+- IMC: 21.0 
+- Insulina: 0.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal

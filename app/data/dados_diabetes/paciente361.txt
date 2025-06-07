@@ -1,0 +1,9 @@
+Paciente 361:
+- Idade: 29.0
+- Sexo: Desconhecido
+- Glicose: 189.0 mg/dL
+- Pressão Arterial: 64.0 mmHg
+- IMC: 31.2 
+- Insulina: 325.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Diabetes

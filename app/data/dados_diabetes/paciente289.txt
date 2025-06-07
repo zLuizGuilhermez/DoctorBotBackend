@@ -1,0 +1,9 @@
+Paciente 289:
+- Idade: 26.0
+- Sexo: Desconhecido
+- Glicose: 96.0 mg/dL
+- Pressão Arterial: 56.0 mmHg
+- IMC: 20.8 
+- Insulina: 49.0 µU/mL
+- HbA1c estimada: Não informada
+- Diagnóstico: Normal
